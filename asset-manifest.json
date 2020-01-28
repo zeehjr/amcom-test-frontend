@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amcom-test-frontend/static/css/main.a9afbf18.chunk.css",
+    "main.js": "/amcom-test-frontend/static/js/main.08be68b0.chunk.js",
+    "main.js.map": "/amcom-test-frontend/static/js/main.08be68b0.chunk.js.map",
+    "runtime-main.js": "/amcom-test-frontend/static/js/runtime-main.908383e6.js",
+    "runtime-main.js.map": "/amcom-test-frontend/static/js/runtime-main.908383e6.js.map",
+    "static/js/2.39c6080f.chunk.js": "/amcom-test-frontend/static/js/2.39c6080f.chunk.js",
+    "static/js/2.39c6080f.chunk.js.map": "/amcom-test-frontend/static/js/2.39c6080f.chunk.js.map",
+    "index.html": "/amcom-test-frontend/index.html",
+    "precache-manifest.1f07a076f781574441855c9d9998ce62.js": "/amcom-test-frontend/precache-manifest.1f07a076f781574441855c9d9998ce62.js",
+    "service-worker.js": "/amcom-test-frontend/service-worker.js",
+    "static/css/main.a9afbf18.chunk.css.map": "/amcom-test-frontend/static/css/main.a9afbf18.chunk.css.map",
+    "static/js/2.39c6080f.chunk.js.LICENSE": "/amcom-test-frontend/static/js/2.39c6080f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.908383e6.js",
+    "static/js/2.39c6080f.chunk.js",
+    "static/css/main.a9afbf18.chunk.css",
+    "static/js/main.08be68b0.chunk.js"
+  ]
+}
